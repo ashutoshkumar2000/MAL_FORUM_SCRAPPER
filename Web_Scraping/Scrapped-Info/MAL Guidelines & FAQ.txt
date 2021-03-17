@@ -1,0 +1,16 @@
+0-> Site & Forum Guidelines
+1-> How to Become a MAL Moderator
+2-> Review Guidelines
+3-> Discord Rules
+4-> News Guidelines
+5-> MyAnimeList.net API Documentation
+6-> IRC Guidelines
+7-> Recommendation Guidelines
+8-> Board-Specific Rules: Anime & Manga
+9-> Board-Specific Rules: General
+10-> Database Guidelines: Anime
+11-> Database Guidelines: Manga
+12-> Database Guidelines: Characters & People
+13-> Frequently Encountered Problems
+14-> LEGACY - DO NOT USE - ARCHIVAL PURPOSES - Posting Guidelines for MyAnimeList.net
+15-> MyAnimeList.net IRC Channel

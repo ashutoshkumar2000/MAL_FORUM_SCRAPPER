@@ -1,0 +1,50 @@
+0-> Advertisement Complaint Thread
+1-> Recover Password / Confirmation Email Problems
+2-> Support Board Rules - READ BEFORE POSTING
+3-> How i do i recommend an anime ?
+4-> [Confirmed] Accounts Posting Spoilers
+5-> Character limits being avoided somehow?
+6-> How To Rewatch
+7-> Wall spam
+8-> Custom list CSS issue (Anime & Manga)
+9-> Starting/finishing dates in my list not updating
+10-> BBCode Spoiler tag in club shoutbox
+11-> Club Admin Request Thread
+12-> [Reported] Reviews on google search
+13-> Ban for VPN? 
+14-> Update hentai databse
+15-> Error 400
+16-> Dataset of anime shows watched by users (when and ratings)
+17-> Android application - API LEVEL / 8.0
+18-> [Fixed] deviantart updated their site and the also available at link on the MAL profile only shows "www" instead of "deviantart.com"
+19-> Voicing concern about the site-wide deployment of reCAPTCHA on MAL
+20-> [Fixed] America/Sao_Paulo's time zone is wrong
+21-> How do I add an entire series to MAL?
+22-> Keep getting logged out of the site
+23-> [Open] Importing scores/votes from AniDB
+24-> Issues
+25-> List to export
+26-> i must request a new moderator
+27-> Hori-san to Miyamura-kun Anime list bug
+28-> Hide footer and cookie message using CSS
+29-> [Resolved] Please close this thread.
+30-> [Resolved] How Do I create a profile pic in forums
+31-> [Resolved] Profile picture in forums
+32-> Stats
+33-> Clubs' Main Pages
+34-> Rewatch Time in the List
+35-> How does Time(Days) Work?
+36-> [Resolved] Manga Days Read excessive increase bug
+37-> I have issues with twitter SNS post
+38-> [Updated Jun 11] 403 Forbidden Error on desktop / using a VPN
+39-> Missing some Animes under Seasonal Anime
+40-> Blocking an individual?
+41-> [BUG] Input fields can break on save when " < " is present in the input (Primarily list CSS)
+42-> Import list from 9anime to MAL
+43-> Anime lists are stuck to the left
+44-> My list has blurred images
+45-> Deleted messages 
+46-> Ban This Person !!
+47-> Someone's making a mass bot accounts to spoil Aot
+48-> Bug? Wrong episode count
+49-> Not getting notifications

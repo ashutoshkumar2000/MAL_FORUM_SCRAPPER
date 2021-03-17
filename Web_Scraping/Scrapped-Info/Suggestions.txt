@@ -1,0 +1,50 @@
+0-> When Posting a Site Suggestion...
+1-> Make the search function on lists, search on different things instead of just the name 
+2-> What counts as anime to MAL?
+3-> Add reactions to forums, so people can reply their short opinions, without worrying about the word count.
+4-> Please bring back "Not Helpful" for reviews
+5-> Isekai tag?
+6-> OFC
+7-> [In Consideration] An Official Dark/Night Theme/Mode?
+8-> Dark Mode
+9-> Add spoiler function like blackening the words on thread titles
+10-> Filter by type manga/anime list
+11-> A sort-by-source option
+12-> adding manhwa and novels to the database
+13-> Anime 
+14-> forum discussion topic 
+15-> Add Battle-Shonen as a genre and remove genres like Shonen, Seinen, Shojo, Josei since they are demographics
+16-> Change "Animeography" and "Mangaography" Text
+17-> A Way to Manually Order Your Favorites List?
+18-> Add option to show how you watch the certain anime (sub/sub) display on list
+19-> Change a character picture 
+20-> Delete all comments
+21-> Thunderbolt Fantasy addition
+22-> MAL Premium Supporter
+23-> Choose Picture for Profile Favorites
+24-> Add the ability to list manga author when submitting an entry
+25-> Can Mal create a new Age Rating PG -15
+26-> Just remove the 30 character limit for forum posts
+27-> Make Isekai a Genre
+28-> An option to show an anime/manga's average rating on list
+29-> New Cooking/Food Tag for anime/manga search
+30-> Combining all Resources of 1 anime
+31-> Two username changes a month instead of one
+32-> Abusing the Number of Shared Anime and Affinity to Uncover Private Lists
+33-> Add new sections
+34-> Please make an ip block
+35-> Please let us add some "webtoons"!
+36-> Decimal Points for Scores?
+37-> Manga in the blog?
+38-> Separate category for China/Korea/Japan animation
+39-> Auto-incrementing "watched" episodes
+40-> DB: Add Comment Section for Characters
+41-> "Following" specific studios, directors, writers, VAs, etc.
+42-> A new Fav Section; Fav Producers 
+43-> The ability to give characters a score
+44-> Option or Script to hide Characters & Voice Actors Section
+45-> Search type "not necessarily including every parameter" or something similar
+46-> Filter scores by user stats
+47-> Search: Find/Search Users by Compatibility/Affinity [Waived]
+48-> question
+49-> Increase the Limit for Top Friends
